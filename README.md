@@ -1,3 +1,7 @@
+#Overview of the Project
+
+This project involves using firebase for user authentication, and the project allows user to sign up, log in, update profile and reset password. It is written using react and different hooks (useState, useEffect, useContex) are used in making of the project.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
